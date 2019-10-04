@@ -1,1 +1,1 @@
-PHP API Boilerplate SLIM Framework
+PHP API Boilerplate Based on SLIM Framework
