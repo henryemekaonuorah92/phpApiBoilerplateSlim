@@ -1,1 +1,1 @@
-phpApiBoilerplateSlim
+PHP API Boilerplate SLIM Framework
