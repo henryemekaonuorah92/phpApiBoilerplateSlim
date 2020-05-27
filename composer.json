@@ -3,6 +3,6 @@
         "slim/slim": "^3.8",
         "palanik/corsslim": "dev-slim3",
         "tuupola/cors-middleware": "^0.5.2",
-        "phpmailer/phpmailer": "^5.2"
+        "phpmailer/phpmailer": "^6.1"
     }
 }
